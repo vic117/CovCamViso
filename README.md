@@ -1,3 +1,8 @@
+//THIS APP IS BASED ON THE OBJECT DETECTION REACT APP AND OBJECT DETECTION CLASSIFIER MENTIONNED HERE BELOW// 
+//NO PROFIT FROM HERE, JUST USED FOR EDUCATIONAL PURPOSES//
+
+
+-------------------OBJECT DETECTION REPOSITORY -----------------------------
 # Object Detection React App
 
 You can find an in depth walkthrough for training a TensorFlow.js model [here](https://github.com/cloud-annotations/training/).
@@ -22,3 +27,33 @@ Copy the `model_web` directory generated from the object detection walkthrough a
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+_______________________________________________________________________________________
+----------------OBJECT DETECTION CLASSIFIER ---------------------------------
+# Classification React App
+
+You can find an in depth walkthrough for training a TensorFlow.js model here.
+
+## Setup
+
+git clone the repo and cd into it by running the following command:
+
+git clone https://github.com/cloud-annotations/classification-react.git
+cd classification-react
+npm install
+
+### Note: You’ll need to have Node 8.10.0 or later on your local development machine. You can use nvm (macOS/Linux) or nvm-windows to easily switch Node versions between different projects.
+Add TensorFlow.js Model to the App
+
+Copy the model_web directory generated from the classification walkthrough and paste it into the public folder of this repo.
+
+### Run the App
+
+npm start
+
+Open http://localhost:3000 to view it in the browser.
+___________________________________________________________________________________________
+
+# CovCamViso
+
+
+## CovCamViso (CCV) es una aplicación de reconocimiento a partir de imágenes a través de una cámara de video. CCV nace de la necesidad de la pandemia a causa de COVID 19, esta solución busca implementar un sistema de monitoreo y alertas para la prevención de contagios en el sistema de transporte colectivo metro. El sistema parte con la premisa del uso responsable de cubrebocas en vía pública así como espacios suficientes para la sana distancia. CCV usa los servicios de machine learning proporcionados de IBM para el reconocimiento de imágenes en tiempo real a través de la plataforma IBM cloud annotation. Esta aplicación usa un sistema de alerta donde el responsable de vagón o estación notificará y será notificado cuando las normas de higiene sean violadas, y así tomar medidas necesarias para reducir el riesgo de contagios. CCV está implementado en react.
