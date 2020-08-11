@@ -57,3 +57,17 @@ ________________________________________________________________________________
 
 
 ## CovCamViso (CCV) es una aplicación de reconocimiento a partir de imágenes a través de una cámara de video. CCV nace de la necesidad de la pandemia a causa de COVID 19, esta solución busca implementar un sistema de monitoreo y alertas para la prevención de contagios en el sistema de transporte colectivo metro. El sistema parte con la premisa del uso responsable de cubrebocas en vía pública así como espacios suficientes para la sana distancia. CCV usa los servicios de machine learning proporcionados de IBM para el reconocimiento de imágenes en tiempo real a través de la plataforma IBM cloud annotation. Esta aplicación usa un sistema de alerta donde el responsable de vagón o estación notificará y será notificado cuando las normas de higiene sean violadas, y así tomar medidas necesarias para reducir el riesgo de contagios. CCV está implementado en react.
+
+
+# Instrucciones de instalación y despliegue de la app:
+
+# 1.- Clone the repository
+# 2.- On your terminal go to the directory of the app
+ ## cd /CovCamViso
+ ## npm install
+ ## npm start
+# 3.- It's ready, now on your localhost:3000 you can see the app running. Just allow to the app to use your camera
+ 
+ 
+ 
+
