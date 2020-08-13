@@ -67,6 +67,23 @@ ________________________________________________________________________________
  ## npm install
  ## npm start
 # 3.- It's ready, now on your localhost:3000 you can see the app running. Just allow to the app to use your camera
+
+# Colaboradores / Collaborators
+
+## PÉREZ OLAYA VÍCTOR RUBÉN
+## victor.olaya@ibm.com
+
+## ERIKA DÍAZ ACOSTA
+## erika.diaz.acosta@ibm.com
+
+## JORDANA ARANDI ZAVALA GÓNZALEZ
+## jordana@ibm.com
+
+## CÉSAR HEBER ARÁMBULA BAUTISTA
+## cesar.arambula@ibm.com
+
+## ARIEL JORGE VINIEGRA RIVEROS
+## ARIEL.JORGE.VINIEGRA.RIVEROS@ibm.com
  
  
  
